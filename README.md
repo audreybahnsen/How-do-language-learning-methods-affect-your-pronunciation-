@@ -13,5 +13,9 @@ If participants were to speak Swahili, that would introduce a bias. And as for g
 Participants are asked to record themselves pronouncing the 12 words they will see htroguhout the study.
 
 <p float="left">
-  <img src="gittotalwordlist.png" width="49%" />
+  <img width="40%" alt="gittotalwordlist" src="https://github.com/user-attachments/assets/db2a6aa4-ac71-4a71-936d-ecef904100ec" />
 </p>
+
+
+
+

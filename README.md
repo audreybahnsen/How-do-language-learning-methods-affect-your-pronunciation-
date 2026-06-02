@@ -71,7 +71,7 @@ t = −1.269, p = 0.245 (ns), d ≈ 0.571
 
 
 <i>“Across-methods” RM-ANOVA on improvement</i>
-F ≈ 0.368, p = 0.713 (very small df here; see report)
+F ≈ 0.368, p = 0.713 (small df however!)
 
 Against the native speaker reference audio, A trends positive but not significant; B shows significant worsening; C trends negative but not significant.
 
